@@ -61,7 +61,7 @@ function DetectPage() {
       <div className={styles.titleRow}>
         <div>
           <h1>Detect Vehicle</h1>
-          <p className={styles.subtitle}>Upload a car image and let AI identify the brand, model and year</p>
+          <p className={styles.subtitle}>Upload a car image and let AI identify the brand</p>
         </div>
       </div>
 
